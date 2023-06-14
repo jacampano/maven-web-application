@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>Pruebas WebApp</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">WebApp Pruebas </h1>
-<h1 align="center"> WebApp de Pruebas</h1>
+<h1 align="center">WebApp de Pruebas</h1>
 <hr>
 <br>
 	<h1><h3> IP Servidor </h3><br>
